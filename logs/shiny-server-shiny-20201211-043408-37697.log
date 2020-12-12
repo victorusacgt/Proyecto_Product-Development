@@ -1,0 +1,30 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+
+Listening on http://127.0.0.1:37697
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: DBI
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+Assuming "Long" and "Lat" are longitude and latitude, respectively
+Note: Using an external vector in selections is ambiguous.
+ℹ Use `all_of(fecha)` instead of `fecha` to silence this message.
+ℹ See <https://tidyselect.r-lib.org/reference/faq-external-vector.html>.
+This message is displayed once per session.
+Assuming "Long" and "Lat" are longitude and latitude, respectively
+Assuming "Long" and "Lat" are longitude and latitude, respectively
+Assuming "Long" and "Lat" are longitude and latitude, respectively

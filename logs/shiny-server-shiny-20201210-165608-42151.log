@@ -1,0 +1,26 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+
+Listening on http://127.0.0.1:42151
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: DBI
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+
+Execution halted
+
