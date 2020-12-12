@@ -6,3 +6,9 @@ Grupo 4:
 * Deyanira Aguilar
 
 * Víctor Pérez 
+
+## Entregables:
+
+* Dockerfiles:
+** Dockerfile airflow ubicado en 'root'
+** Dockerfile para shiny server ubicado en carpeta 'dashboard'
